@@ -1,2 +1,2 @@
 # Quiz App
- Created using HTML, CSS and JavaScript...
+ Created using JavaScript
